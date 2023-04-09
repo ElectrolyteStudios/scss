@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ElectrolyteStudios/scss/issues"
   },
-  "homepage": "https://github.com/ElectrolyteStudios/scss#readme"
+  "homepage": "https://github.com/ElectrolyteStudios/scss#readme",
+  "publishConfig": {
+    "@electrolyte:registry": "https://npm.pkg.github.com"
+  }
 }
