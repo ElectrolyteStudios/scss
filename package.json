@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/ElectrolyteStudios/scss#readme",
   "publishConfig": {
-    "@electrolyte:registry": "https://npm.pkg.github.com"
+    "@ElectrolyteStudios:registry": "https://npm.pkg.github.com"
   }
 }
