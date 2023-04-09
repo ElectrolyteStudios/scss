@@ -1,0 +1,22 @@
+{
+  "name": "@electrolyte/scss",
+  "version": "0.0.1",
+  "description": "A package which containes some base SCSS mixins and functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElectrolyteStudios/scss.git"
+  },
+  "keywords": [
+    "SCSS"
+  ],
+  "author": "Electrolyte Studios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElectrolyteStudios/scss/issues"
+  },
+  "homepage": "https://github.com/ElectrolyteStudios/scss#readme"
+}
