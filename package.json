@@ -4,6 +4,7 @@
   "description": "A package which containes some base SCSS mixins and functions",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
